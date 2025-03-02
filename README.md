@@ -1,6 +1,6 @@
 # LLM API Gateway
 
-![LLM API Gateway Banner](https://github.com/simonpierreboucher0/LLM-API/raw/main/assets/banner.png)
+
 
 ## 📌 Vue d'ensemble
 
